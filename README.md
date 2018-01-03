@@ -1,2 +1,2 @@
 # CGDrawInQuad
-moved to github.com/capnslipp/CGDrawInQuad
+Moved to [capnslipp/CGDrawInQuad](https://github.com/capnslipp/CGDrawInQuad).
